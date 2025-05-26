@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Spring Bone Function",
-    "blender": (4, 5, 0),
+    "blender": (4, 4, 0),
     "category": "Rigging",
 }
 
